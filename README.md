@@ -1,2 +1,2 @@
-# VRC-PosProcessing-Jesvid-Prefab
+# VRC-PostProcessing-Jesvid-Prefab
 VRC PosProcessing Jesvid Prefab
