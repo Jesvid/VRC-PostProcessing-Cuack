@@ -10,6 +10,13 @@ Es un prefab con un menu configurable para ajustar el post-procesado en tiempo r
 -Ultima version de vrchat sdk 3
 -Ultima version de udonsharp
 
+# Instruccciones:
+1.Arrastrar el PostProcessing Prefab en la escena.
+2.Arrastrar la “Reference camera” a la escena.
+3.Referenciar al "Reference camera" al vrc scene descriptor(script) del vrcworld.
+![image](https://user-images.githubusercontent.com/52258487/148701039-da4c1ef5-2430-46b5-9156-2df00874a39e.png)
+
+
 # DESCARGAR:
 https://github.com/Jesvid/VRC-PostProcessing-Jesvid-Prefab/releases
 
