@@ -1,4 +1,4 @@
-# VRC-PostProcessing-Jesvid-Prefab
+# VRC-PostProcessing-Cuack
 VRC PosProcessing Jesvid Prefab
 Es un prefab con un menu configurable para ajustar el post-procesado en tiempo real para vrchat.
 
@@ -8,6 +8,7 @@ Es un prefab con un menu configurable para ajustar el post-procesado en tiempo r
 
 # Requerimientos:
 -Ultima version de vrchat sdk 3
+
 -Ultima version de udonsharp
 
 # Instruccciones:
