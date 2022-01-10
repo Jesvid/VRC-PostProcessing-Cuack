@@ -11,6 +11,8 @@ Es un prefab con un menu configurable para ajustar el post-procesado en tiempo r
 
 -Ultima version de udonsharp
 
+-PostProcessing Stack V2
+
 # Instruccciones:
 1.Arrastrar el PostProcessing Prefab en la escena.
 
