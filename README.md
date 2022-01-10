@@ -26,5 +26,5 @@ Es un prefab con un menu configurable para ajustar el post-procesado en tiempo r
 # DESCARGAR:
 https://github.com/Jesvid/VRC-PostProcessing-Cuack/releases
 
-# Licences
-© 2021,2022. This work is licensed under a CC BY-NC 4.0 license.
+# License:
+© MIT License Copyright (c) 2022 Jesvid
